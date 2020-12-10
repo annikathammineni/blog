@@ -1,17 +1,28 @@
-#contact iframe
-{
+#contact iframe {
     width: 100%;
 }
-.contact_1 h3
-{
+
+.contact_1 h3 {
     display: inline;
 }
-.contact_1 a
-{
+
+.contact_1 a {
     text-shadow: none;
 }
- 
-input
-{
+
+input {
     background: grey
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head span {
+    color: gold ;
+    
 }
